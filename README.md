@@ -1,2 +1,3 @@
 # Email-Spammer
-Spam emails.
+# for educational purposes only.
+
